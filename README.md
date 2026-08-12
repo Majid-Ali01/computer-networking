@@ -14,24 +14,26 @@
 
 <br><br>
 
+<img src="https://skillicons.dev/icons?i=git,github,windows" />
+
+<br><br>
+
 > 🌐 **Learning Computer Networking through practical Windows CMD laboratories**
 
 </div>
 
 ---
 
-## 🧠 About This Repository
+# 🧠 About This Repository
 
-This repository documents my journey through **Computer Networking Fundamentals**.
+This repository documents my **Computer Networking Fundamentals journey**.
 
-The main focus is on understanding how computers communicate,
-how network information is identified, how connectivity is tested,
-and how basic networking problems can be investigated using
-**Windows Command Prompt**.
+The purpose of this repository is to build a strong foundation in networking through
+practical laboratory work, Windows Command Prompt, troubleshooting exercises,
+and proper documentation.
 
-The repository will grow progressively throughout the semester,
-starting with **Lab 01** and continuing toward more advanced
-networking and cybersecurity concepts.
+The repository will progressively grow throughout the semester, starting from
+**Lab 01** and moving toward more advanced networking and cybersecurity concepts.
 
 <div align="center">
 
@@ -41,30 +43,30 @@ networking and cybersecurity concepts.
 
 ---
 
-## 🗺️ Networking Journey
+# 🗺️ Networking Journey
 
 <div align="center">
 
 ```text
-                         🌐 NETWORKING
-                              │
-                              ▼
-                    📚 LAB 01 — BASICS
-                              │
-                              ▼
-                       🔢 IP ADDRESSING
-                              │
-                              ▼
-                     📡 NETWORK PROTOCOLS
-                              │
-                              ▼
-                       💻 CMD PRACTICALS
-                              │
-                              ▼
-                     🔍 TROUBLESHOOTING
-                              │
-                              ▼
-                       🛡️ NETWORK SECURITY
-                              │
-                              ▼
-                      🔐 CYBERSECURITY
+                         🌐 COMPUTER NETWORKING
+                                  │
+                                  ▼
+                     📚 LAB 01 — FUNDAMENTALS
+                                  │
+                                  ▼
+                          🔢 IP ADDRESSING
+                                  │
+                                  ▼
+                         📡 NETWORK PROTOCOLS
+                                  │
+                                  ▼
+                          💻 CMD PRACTICALS
+                                  │
+                                  ▼
+                       🔍 NETWORK TROUBLESHOOTING
+                                  │
+                                  ▼
+                         🛡️ NETWORK SECURITY
+                                  │
+                                  ▼
+                          🔐 CYBERSECURITY
