@@ -284,21 +284,21 @@ The focus is on developing a strong understanding of networking concepts by comb
 
 # 🧩 Skills in Progress
 
-<div align="center">
+<div align="left">
 
-🌐 **Networking Fundamentals**
+🌐 **Networking Fundamentals**  <br>
 ⬇️
-🔢 **IP Addressing**
+🔢 **IP Addressing**  <br>
 ⬇️
-📡 **Network Communication**
+📡 **Network Communication**    <br>
 ⬇️
-💻 **Command-Line Networking**
+💻 **Command-Line Networking**   <br>
 ⬇️
-🔍 **Network Troubleshooting**
+🔍 **Network Troubleshooting**    <br>
 ⬇️
-🛡️ **Network Security**
+🛡️ **Network Security**      <br>
 ⬇️
-🔐 **Cybersecurity**
+🔐 **Cybersecurity**     <br>
 
 </div>
 
