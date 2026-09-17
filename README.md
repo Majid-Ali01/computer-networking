@@ -315,9 +315,7 @@ The focus is on developing a strong understanding of networking concepts by comb
 │   └── 📝 Solutions
 │
 ├── 📁 Lab 02
-│   ├── 📄 Lab Documentation
-│   ├── 🖼️ Screenshots
-│   └── 📝 Solutions
+│   └── ⏳ Coming Soon
 │
 ├── 📁 Lab 03
 │   └── ⏳ Coming Soon
